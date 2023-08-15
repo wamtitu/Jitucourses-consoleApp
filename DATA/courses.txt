@@ -1,0 +1,3 @@
+1,JavaScript,Full-Stack Development,40000
+2,QA/QE,quality assurance,20000
+3,WordPress,Full Stack Development,30000

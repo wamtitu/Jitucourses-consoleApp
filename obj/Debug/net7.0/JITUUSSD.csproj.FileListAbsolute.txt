@@ -1,0 +1,15 @@
+C:\Users\lenovo\desktop\.NET\JITUUSSD\bin\Debug\net7.0\JITUUSSD.exe
+C:\Users\lenovo\desktop\.NET\JITUUSSD\bin\Debug\net7.0\JITUUSSD.deps.json
+C:\Users\lenovo\desktop\.NET\JITUUSSD\bin\Debug\net7.0\JITUUSSD.runtimeconfig.json
+C:\Users\lenovo\desktop\.NET\JITUUSSD\bin\Debug\net7.0\JITUUSSD.dll
+C:\Users\lenovo\desktop\.NET\JITUUSSD\bin\Debug\net7.0\JITUUSSD.pdb
+C:\Users\lenovo\desktop\.NET\JITUUSSD\obj\Debug\net7.0\JITUUSSD.csproj.AssemblyReference.cache
+C:\Users\lenovo\desktop\.NET\JITUUSSD\obj\Debug\net7.0\JITUUSSD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\desktop\.NET\JITUUSSD\obj\Debug\net7.0\JITUUSSD.AssemblyInfoInputs.cache
+C:\Users\lenovo\desktop\.NET\JITUUSSD\obj\Debug\net7.0\JITUUSSD.AssemblyInfo.cs
+C:\Users\lenovo\desktop\.NET\JITUUSSD\obj\Debug\net7.0\JITUUSSD.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\desktop\.NET\JITUUSSD\obj\Debug\net7.0\JITUUSSD.dll
+C:\Users\lenovo\desktop\.NET\JITUUSSD\obj\Debug\net7.0\refint\JITUUSSD.dll
+C:\Users\lenovo\desktop\.NET\JITUUSSD\obj\Debug\net7.0\JITUUSSD.pdb
+C:\Users\lenovo\desktop\.NET\JITUUSSD\obj\Debug\net7.0\JITUUSSD.genruntimeconfig.cache
+C:\Users\lenovo\desktop\.NET\JITUUSSD\obj\Debug\net7.0\ref\JITUUSSD.dll

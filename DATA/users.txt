@@ -1,0 +1,4 @@
+john,john@gmail.com,12345,User
+wamutitu,wamutitu@gmail.com,12345,Admin
+jane,jane@gmail.com,12345,User
+james,james@gmail.com,12345,User
